@@ -11,8 +11,11 @@
 
 ---?image=assets/img/background.png
 
+@snap[north-west span-95]
 
 ### Some content
+
+@snapend
 
 some sentence!
 
