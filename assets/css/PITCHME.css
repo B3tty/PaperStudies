@@ -64,7 +64,7 @@ body {
 }
 .reveal h2 {
   color: hotpink;
-  font-family: "Raleway Heavy", sans-serif;
+  font-family: "Roboto Heavy", sans-serif;
   text-transform: none;
   margin: 0 0 15px 0;
   line-height: 1.2;
@@ -78,7 +78,7 @@ body {
 .reveal h5,
 .reveal h6 {
   color: hotpink;
-  font-family: "Raleway Medium", sans-serif;
+  font-family: "Roboto Medium", sans-serif;
   text-transform: none;
   margin: 0 0 15px 0;
   line-height: 1.1;
