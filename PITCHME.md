@@ -11,7 +11,7 @@
 
 ---?image=assets/img/background.png
 
-@snap[north-west span-95]
+@snap[north-west span-95 text-left]
 
 ### Some content
 
