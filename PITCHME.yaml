@@ -1,0 +1,42 @@
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : template
+
+# h1 and h2 style
+# theme-headline : [ "family", "color", "transform" ]
+theme-headline   : [ "Roboto", "#5289F7", "none" ]
+# h3, h4 and h4
+theme-byline     : [ "Roboto", "#111111", "none" ]
+theme-text       : [ "Roboto", "#1C1C1C", "none" ]
+# theme-links : [ "color", "hover" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: assets/css/PITCHME.css
+
+#theme-background : [ "green" ]
+#theme-background : [ "linear-gradient(#e66465, #9198e5)" ]
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+# logo : assets/img/logo.png
+# logo-position : top-left
+
+layout : center
+
+footnote : "BBL WiMLDS"
+
+published : true
+
+title : "BBL WiMLDS"
+description : "Paper study sessions about data science and machine learning papers"
