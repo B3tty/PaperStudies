@@ -12,5 +12,3 @@ For each one of these BBLs, you will find
 ## Sessions
 
 * [BBL #1](2019-09-19/Readme.md): Learning Embeddings for Product Size Recommendations
-
-
